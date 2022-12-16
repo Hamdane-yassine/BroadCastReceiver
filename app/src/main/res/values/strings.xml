@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BroadCastReceiver</string>
+    <string name="broadcast_d_intents">BroadCast Receiver testing</string>
+    <string name="broadcaster">Send broadCast</string>
+</resources>
